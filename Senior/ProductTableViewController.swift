@@ -9,13 +9,7 @@
 import UIKit
 
 class ProductTableViewController: UITableViewController {
-<<<<<<< HEAD
-
-    //third
-    //feature1
-
-=======
->>>>>>> parent of 35da923... second
+    //feature2
     var products = [Product]()
     var productObj = [PFObject]?()
     var imgData = NSData?()
